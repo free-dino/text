@@ -1,0 +1,5 @@
+1. [[1. Principles of Parametric Modelling|Principles of Parametric Modelling]]
+2. [[2. Loss Functions and Likelihood-Based Models|Loss Functions and Likelihood-Based Models]]
+3. [[3. Regularization|Regularization]]
+4. [[4. Parameter Optimization|Parameter Optimization]]
+5. [[5. Optimization with Large Datasets|Optimization with Large Datasets]] 

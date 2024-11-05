@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "a3bfb49a9a2b37ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "50b312da58068a81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7057939c6b4e155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data mining and analytics/Theory/Data Clustering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Clustering"
+            }
+          },
+          {
+            "id": "a826d9671b6ae85b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data mining and analytics/Theory/Data Understanding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Understanding"
+            }
+          },
+          {
+            "id": "a2fcdab9053d4f24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data mining and analytics/Theory/Data preprocessing and preparation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data preprocessing and preparation"
+            }
+          },
+          {
+            "id": "b8a5a9dd89aee226",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c48fad478e93c46",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb69300ad9e36610",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df118089bc0652cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f11ebfea6d001833",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bc93ec5b0a99aba2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e49f6b232a5cc208",
+    "type": "split",
+    "children": [
+      {
+        "id": "27bc4972f5293b4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb47815bacac5d57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "99d920b2ffffaccd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reinforcement learning/Theory/2. Multi-armed Bandits/2.6 Optimistic Initial Values..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2.6 Optimistic Initial Values."
+            }
+          },
+          {
+            "id": "f5145fb05187313e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reinforcement learning/Theory/2. Multi-armed Bandits/2.6 Optimistic Initial Values..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2.6 Optimistic Initial Values."
+            }
+          },
+          {
+            "id": "7b75a4d2d8fb5970",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reinforcement learning/Theory/2. Multi-armed Bandits/2.6 Optimistic Initial Values..md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2.6 Optimistic Initial Values."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b8a5a9dd89aee226",
+  "lastOpenFiles": [
+    "Data mining and analytics/Theory/Data Understanding.md",
+    "Data mining and analytics/Theory/Data preprocessing and preparation.md",
+    "Data mining and analytics/Theory/Distance and Similarity.md",
+    "Data mining and analytics/Theory/Data Clustering.md",
+    "Machine Learning/Theory/1. Introduction/1. Machine Learning Exemplified.md",
+    "Machine Learning/Theory/1. Introduction/2. About the book.md",
+    "Machine Learning/Theory/5. Learning Parametric Models/4. Parameter Optimization.md",
+    "Machine Learning/Theory/5. Learning Parametric Models/5. Optimization with Large Datasets.md",
+    "preamble.sty~",
+    "Machine Learning/Theory/5. Learning Parametric Models/2. Loss Functions and Likelihood-Based Models.md",
+    "custom.css~",
+    "custom.css",
+    "Machine Learning/Theory/2. Supervised Learning - A first Approach/2. A Distance Based Method - k-NN.md",
+    "Data mining and analytics/AIT3003 - Khai phá và phân tích dữ liệu/books/Book1-DataMining-ConceptsAndTechniques(3rdEd).pdf",
+    "Data mining and analytics/Theory/An Introduction to Data Mining/1. Introduction.md",
+    "Reinforcement learning/Note from slides/Lecture 3.md",
+    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.8 Gradient Bandit Algorithms.md",
+    "Reinforcement learning/Note from slides",
+    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.1 A k-armed Bandit Problem.md",
+    "Machine Learning/Theory/3. Basic parametric models/2. Classification and Logistic Regression.md",
+    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.7 Upper-Confidence-Bound Action Selection.md",
+    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.6 Optimistic Initial Values..md",
+    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.5 Tracking a Nonstationary Problem.md",
+    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.4 Incremental Implementation.md",
+    "Machine Learning/Theory/@ Machine learning list.md",
+    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.3 The 10-armed Testbed.md",
+    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.2 Action-value Methods.md",
+    "Machine Learning/Theory/5. Learning Parametric Models/3. Regularization.md",
+    "Probability and Statistics/Theory/5. Limit Theorems/5.4 The Central Limit Theorem.md",
+    "Deep learning/Theory/Neural networks.md",
+    "Probability and Statistics/Theory/5. Limit Theorems/5.3 Convergence in probability.md",
+    "Probability and Statistics/Dimitri P. Bertsekas, John N. Tsitsiklis - Introduction to Probability, 2nd Edition  -Athena Scientific (2008).pdf",
+    "Probability and Statistics/Dimitri P. Bertsekas and John N. Tsitsiklis - Introduction to Probability 2nd Edition Problem Solutions-Athena Scientific (2019).pdf",
+    "Pasted image 20241006192104.png",
+    "Pasted image 20241002094328.png",
+    "Probability and Statistics/Theory/5. Limit Theorems",
+    "Probability and Statistics/Theory",
+    "Reinforcement learning/Theory/2. Multi-armed Bandits",
+    "Pasted image 20240811224417.png",
+    "Pasted image 20240811100800.png",
+    "Pasted image 20240810222006.png",
+    "Pasted image 20240810213129.png",
+    "Pasted image 20240810203655.png",
+    "Pasted image 20240810203638.png",
+    "Pasted image 20240810202859.png",
+    "Pasted image 20240810202202.png"
+  ]
+}

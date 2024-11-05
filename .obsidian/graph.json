@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Linear algebra/theory\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6066646
+      }
+    },
+    {
+      "query": "path:\"Linear algebra/Proofs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9264342
+      }
+    },
+    {
+      "query": "path:\"Machine Learning/Theory\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"Modeling and Optimization for Machine Learning\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"Web Project/Web APIs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7008452
+      }
+    },
+    {
+      "query": "path:\"Proof for something\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16758845
+      }
+    },
+    {
+      "query": "path:\"Natural language processing/Theory\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12617164
+      }
+    },
+    {
+      "query": "path:\"Reinforcement learning/Theory\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2647
+      }
+    },
+    {
+      "query": "path:\"Probability and Statistics/Theory\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "path:\"Data mining and analytics/Theory\"",
+      "color": {
+        "a": 1,
+        "rgb": 1063432
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 2.5,
+  "nodeSizeMultiplier": 1.68229166666667,
+  "lineSizeMultiplier": 1.27395833333333,
+  "collapse-forces": false,
+  "centerStrength": 0.208333333333333,
+  "repelStrength": 10.7291666666667,
+  "linkStrength": 0.473958333333333,
+  "linkDistance": 201,
+  "scale": 0.12037753772726158,
+  "close": true
+}

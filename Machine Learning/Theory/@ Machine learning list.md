@@ -1,0 +1,8 @@
+ [[Machine Learning/Theory/Notation|Notation]]
+1. [[@ List of Introduction|Introduction]]
+2. [[@ List of Supervised Learning - A first Approach|Supervised learning: A first Approach]]
+3. [[@ List of basic parametric models| Basic parametric models and a Statistical perspective on learning]] 
+4. [[@ List of Understanding, Evaluating, and Improving Performance| Understanding, Evaluating and Improving Performance]]
+5. [[@ List of Learning Parametric Models|Learning Parametric Models]]
+6. [[@ List of Neural Networks and Deep Learning|List of Neural Networks and Deep Learning]] 
+7. [[@List of Ensemble methods|Ensemble methods: Bagging and Boosting]]

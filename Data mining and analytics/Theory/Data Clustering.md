@@ -1,0 +1,65 @@
+# 1. Data clustering
+- Also called: unsupervised learning/unsupervised classification.
+- Learning by observation
+- Two man types of clustering:
+  - Hard clustering: each data point belongs to only one cluster.
+  - Soft clustering: each data point can belong to one or more cluster.
+- Some characteristics:
+  - The number of clusters of a dataset is normally unknown, or not really clear.
+  - There are several clustering approaches, each has several clustering techniques.
+  - Different clustering approaches/techniques may give different result.
+# 2. Data clustering problem
+- Let $\mat X = (X_1, X_2, \dots, X_d)$ be a $d-$dimensional space, where each attribute/variable $X_j$ is numeric or categorical.
+- Let $\mathcal D = \{\v x_1, \v x_2, \dots, \v x_n \}$ be a data sample or dataset consisting of $n$ data points, $\v x_i = (x_1, x_2,\dots, x_d) \in \mat X$
+# 3. Observations about the clustering process and the result.
+- The number of clusters $k$ is specified in 2 ways: 
+  - (1) $k$ is an **input parameter** of the clustering algorithm
+  - (2) $k$ can be **determined automatically** by the algorithm
+- Not all data points in $\mathcal D$ are assigned into clusters. Several data points that are outliers or noise.
+- The clustering results depend on clustering algorithms.
+# 4. Requirements for data clustering
+- Scalability
+- Availability to deal with different types of attributes
+- Discovery of clusters with arbitrary shape:
+- Requirements for domain knowledge to determine input parameters
+- Ability to deal with noisy data
+- Incremental clustering and insensitivity to input order
+- Capability of clustering high-dimensionality data
+- Constraint-based clustering
+- Interpretability and usability
+# 5. Clustering approaches
+- **Hierarchical methods**: (connectivity methods):
+  - Create a hierarchical decomposition of data, i.e., a tree of clusters (**dendogram**)
+  - Hierarchical clustering can be **agglomerative** (bottom-up) or **divisive** (top-down).
+  - Use various similarity measures split or merge clusters.
+  - This approach is **hard clustering**. The resulting clusters are in **spherical shape**.
+- **Partitioning methods**: (centroid methods):
+  - Data points are partitioned into $k$ exclusive clusters ($k$ is an input parameter).
+  - Both **centroid-based** and **distance-based**.
+  - Well-known techniques: $k-$means, $k-$medoids, $k-$medians, etc.
+  - This approach is also **hard clustering**.
+  - Suitable for finding for finding **spherical-shaped** clusters in small to medium size based.
+- **Distribution-based methods**: (probabilistic models)
+  - Assume data points are from a mixture of distribution
+  - Gaussian mixture models (GMMs) with expectation maximization (EM).
+  - This is soft clustering -> The clusters can overlap and have elliptical shapes.
+  - For clusters in arbitrary shapes, distribution methods may fail since the distribution assumption is normally wrong.
+- Density-based methods:
+  - Continue to grow a cluster as long as the density in the neighborhood exceeds some threshold.
+  - Cluster may have arbitrary shapes.
+  - Can deal with noise and outliers.
+  - **DBSCAN** and **OPTIC** algorithm.
+- **Grid-based methods**:
+  - Quantize the object space into a finite number of cells that form a grid structure
+  - All the clustering operations are performed on the grid structure.
+  - Pro: 
+    - fast, depending the number of cells.
+    - Efficient for spatial.
+- **Others**:
+  - **Graph-based methods**:
+    - Finding clusters based on dense sub-graph mining like cliques or quasi cliques.
+  - **Subspace models**:
+    - Clusters are modeled with and both cluster members and relevant attributes
+  - **Neural models**:
+    - The most well known unsupervised neural network is the **self-organizing map**  
+  
