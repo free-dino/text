@@ -226,8 +226,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b157d9c4bb60602",
+  "active": "b8c5e33dba75b402",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Reinforcement learning/Theory/3. Finite Markov Decision Processes/Synopsis.md",
+    "Reinforcement learning/Theory/3. Finite Markov Decision Processes/3.1 The Agent-Environment Interface.md",
+    "Reinforcement learning/Theory/3. Finite Markov Decision Processes",
+    "README.md",
+    "Pasted image 20241106160428.png",
     "Data mining and analytics/Theory/Data Understanding.md",
     "Data mining and analytics/Theory/Data preprocessing and preparation.md",
     "Data mining and analytics/Theory/Distance and Similarity.md",
@@ -255,24 +261,18 @@
     "Machine Learning/Theory/@ Machine learning list.md",
     "Reinforcement learning/Theory/2. Multi-armed Bandits/2.3 The 10-armed Testbed.md",
     "Reinforcement learning/Theory/2. Multi-armed Bandits/2.2 Action-value Methods.md",
-    "Machine Learning/Theory/5. Learning Parametric Models/3. Regularization.md",
-    "Probability and Statistics/Theory/5. Limit Theorems/5.4 The Central Limit Theorem.md",
-    "Deep learning/Theory/Neural networks.md",
-    "Probability and Statistics/Theory/5. Limit Theorems/5.3 Convergence in probability.md",
     "Probability and Statistics/Dimitri P. Bertsekas, John N. Tsitsiklis - Introduction to Probability, 2nd Edition  -Athena Scientific (2008).pdf",
     "Probability and Statistics/Dimitri P. Bertsekas and John N. Tsitsiklis - Introduction to Probability 2nd Edition Problem Solutions-Athena Scientific (2019).pdf",
     "Pasted image 20241006192104.png",
     "Pasted image 20241002094328.png",
     "Probability and Statistics/Theory/5. Limit Theorems",
     "Probability and Statistics/Theory",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits",
     "Pasted image 20240811224417.png",
     "Pasted image 20240811100800.png",
     "Pasted image 20240810222006.png",
     "Pasted image 20240810213129.png",
     "Pasted image 20240810203655.png",
     "Pasted image 20240810203638.png",
-    "Pasted image 20240810202859.png",
-    "Pasted image 20240810202202.png"
+    "Pasted image 20240810202859.png"
   ]
 }
