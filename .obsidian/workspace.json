@@ -60,9 +60,21 @@
               "icon": "lucide-file",
               "title": "Release Notes 1.7.4"
             }
+          },
+          {
+            "id": "b8c5e33dba75b402",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "e49f6b232a5cc208",
@@ -186,16 +197,27 @@
               "icon": "lucide-list",
               "title": "Outline of 2.6 Optimistic Initial Values."
             }
+          },
+          {
+            "id": "6b157d9c4bb60602",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -204,7 +226,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8a5a9dd89aee226",
+  "active": "6b157d9c4bb60602",
   "lastOpenFiles": [
     "Data mining and analytics/Theory/Data Understanding.md",
     "Data mining and analytics/Theory/Data preprocessing and preparation.md",
