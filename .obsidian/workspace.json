@@ -8,55 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7057939c6b4e155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Big Data Techniques and Technologies/Hadoop.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hadoop"
-            }
-          },
-          {
-            "id": "a826d9671b6ae85b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data mining and analytics/Theory/Data Understanding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data Understanding"
-            }
-          },
-          {
-            "id": "a2fcdab9053d4f24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data mining and analytics/Theory/Data preprocessing and preparation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data preprocessing and preparation"
-            }
-          },
-          {
             "id": "a01c44dd0699a640",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement learning/Theory/3. Finite Markov Decision Processes/3.1 The Agent-Environment Interface.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1 The Agent-Environment Interface"
             }
           }
         ]
@@ -115,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "e49f6b232a5cc208",
@@ -152,8 +115,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df118089bc0652cc",
+  "active": "a01c44dd0699a640",
   "lastOpenFiles": [
+    "Pasted image 20241106160428.png",
+    "Reinforcement learning/Theory/3. Finite Markov Decision Processes/Synopsis.md",
+    "Reinforcement learning/Theory/3. Finite Markov Decision Processes/3.1 The Agent-Environment Interface.md",
+    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.1 A k-armed Bandit Problem.md",
+    "Reinforcement learning/Theory/2. Multi-armed Bandits/Synopsis.md",
+    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.8 Gradient Bandit Algorithms.md",
+    "Reinforcement learning/Theory/3. Finite Markov Decision Processes",
+    "Big Data Techniques and Technologies/Hadoop.md",
     "Programming for Data Engineering with Python/AIT2003 - Lập trình xử lý dữ liệu với Python/python/print-Luciano Ramalho - Fluent Python_ Clear, Concise, and Effective Programming-O_Reilly Media (2022).pdf",
     "Deep learning/AIT3001 - Học sâu/(Adaptive Computation and Machine Learning series) Bengio, Yoshua_ Courville, Aaron_ Goodfellow, Ian J - Deep learning_ adaptive computation and machine learning-The MIT Press (2016).pdf",
     "Data mining and analytics/AIT3003 - Khai phá và phân tích dữ liệu/books/Book2-DataMiningTheTextbook.pdf",
@@ -163,8 +134,6 @@
     "Data mining and analytics/AIT3003 - Khai phá và phân tích dữ liệu/teams/Jesse Anderson - Data Teams_ A Unified Management Model for Successful Data-Focused Teams-Apress (2020).pdf",
     "Programming for Data Engineering with Python/AIT2003 - Lập trình xử lý dữ liệu với Python/books/PRINT-~2.pdf",
     "Data mining and analytics/AIT3003 - Khai phá và phân tích dữ liệu/books/Book3-MiningOfMassiveDatasets.pdf",
-    "Programming for Data Engineering with Python/AIT2003 - Lập trình xử lý dữ liệu với Python/python/print-Mariano Anaya - Clean Code in Python_ Develop maintainable and efficient code, 2nd Edition-Packt Publishing Ltd (2021).pdf",
-    "Programming for Data Engineering with Python/AIT2003 - Lập trình xử lý dữ liệu với Python/DA-Python-Slides/da-python-lec02.pdf",
     "Data mining and analytics/Theory/Data Clustering.md",
     "Data mining and analytics/Theory/Data preprocessing and preparation.md",
     "Data mining and analytics/Theory/Data Understanding.md",
@@ -177,8 +146,6 @@
     "Machine Learning/Theory/2. Supervised Learning - A first Approach/2. A Distance Based Method - k-NN.md",
     "Data mining and analytics/Theory/An Introduction to Data Mining/1. Introduction.md",
     "Reinforcement learning/Note from slides/Lecture 3.md",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.8 Gradient Bandit Algorithms.md",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.1 A k-armed Bandit Problem.md",
     "Machine Learning/Theory/3. Basic parametric models/2. Classification and Logistic Regression.md",
     "Reinforcement learning/Theory/2. Multi-armed Bandits/2.7 Upper-Confidence-Bound Action Selection.md",
     "Reinforcement learning/Theory/2. Multi-armed Bandits/2.6 Optimistic Initial Values..md",
@@ -186,10 +153,6 @@
     "Reinforcement learning/Theory/2. Multi-armed Bandits/2.4 Incremental Implementation.md",
     "Machine Learning/Theory/@ Machine learning list.md",
     "Reinforcement learning/Theory/2. Multi-armed Bandits/2.3 The 10-armed Testbed.md",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.2 Action-value Methods.md",
-    "Machine Learning/Theory/5. Learning Parametric Models/3. Regularization.md",
-    "Probability and Statistics/Theory/5. Limit Theorems/5.4 The Central Limit Theorem.md",
-    "Deep learning/Theory/Neural networks.md",
     "Pasted image 20241006192104.png",
     "Pasted image 20241002094328.png",
     "Pasted image 20240811224417.png",
