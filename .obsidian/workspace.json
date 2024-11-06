@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data mining and analytics/Theory/Data Clustering.md",
+                "file": "Big Data Techniques and Technologies/Hadoop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Clustering"
+              "title": "Hadoop"
             }
           },
           {
@@ -50,19 +50,16 @@
             }
           },
           {
-            "id": "b8a5a9dd89aee226",
+            "id": "a01c44dd0699a640",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,81 +115,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "e49f6b232a5cc208",
     "type": "split",
     "children": [
       {
-        "id": "27bc4972f5293b4f",
+        "id": "f5231b7b598fa14d",
         "type": "tabs",
         "children": [
           {
-            "id": "fb47815bacac5d57",
+            "id": "a466fba2ddda9d39",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "99d920b2ffffaccd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Reinforcement learning/Theory/2. Multi-armed Bandits/2.6 Optimistic Initial Values..md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2.6 Optimistic Initial Values."
-            }
-          },
-          {
-            "id": "f5145fb05187313e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Reinforcement learning/Theory/2. Multi-armed Bandits/2.6 Optimistic Initial Values..md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2.6 Optimistic Initial Values."
-            }
-          },
-          {
-            "id": "7b75a4d2d8fb5970",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Reinforcement learning/Theory/2. Multi-armed Bandits/2.6 Optimistic Initial Values..md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2.6 Optimistic Initial Values."
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,29 +148,36 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8a5a9dd89aee226",
+  "active": "df118089bc0652cc",
   "lastOpenFiles": [
-    "Data mining and analytics/Theory/Data Understanding.md",
-    "Data mining and analytics/Theory/Data preprocessing and preparation.md",
-    "Data mining and analytics/Theory/Distance and Similarity.md",
+    "Programming for Data Engineering with Python/AIT2003 - Lập trình xử lý dữ liệu với Python/python/print-Luciano Ramalho - Fluent Python_ Clear, Concise, and Effective Programming-O_Reilly Media (2022).pdf",
+    "Deep learning/AIT3001 - Học sâu/(Adaptive Computation and Machine Learning series) Bengio, Yoshua_ Courville, Aaron_ Goodfellow, Ian J - Deep learning_ adaptive computation and machine learning-The MIT Press (2016).pdf",
+    "Data mining and analytics/AIT3003 - Khai phá và phân tích dữ liệu/books/Book2-DataMiningTheTextbook.pdf",
+    "Visual processing and analytics/AIT3002 - Xử lý và phân tích hình ảnh/books/Mohamed Elgendy - Deep Learning for Vision Systems-Manning Publications (2020).pdf",
+    "Programming for Data Engineering with Python/AIT2003 - Lập trình xử lý dữ liệu với Python/python/print-Dan Bader - Python Tricks_ A Buffet of Awesome Python Features (2017).pdf",
+    "Reinforcement learning/DP.pdf",
+    "Data mining and analytics/AIT3003 - Khai phá và phân tích dữ liệu/teams/Jesse Anderson - Data Teams_ A Unified Management Model for Successful Data-Focused Teams-Apress (2020).pdf",
+    "Programming for Data Engineering with Python/AIT2003 - Lập trình xử lý dữ liệu với Python/books/PRINT-~2.pdf",
+    "Data mining and analytics/AIT3003 - Khai phá và phân tích dữ liệu/books/Book3-MiningOfMassiveDatasets.pdf",
+    "Programming for Data Engineering with Python/AIT2003 - Lập trình xử lý dữ liệu với Python/python/print-Mariano Anaya - Clean Code in Python_ Develop maintainable and efficient code, 2nd Edition-Packt Publishing Ltd (2021).pdf",
+    "Programming for Data Engineering with Python/AIT2003 - Lập trình xử lý dữ liệu với Python/DA-Python-Slides/da-python-lec02.pdf",
     "Data mining and analytics/Theory/Data Clustering.md",
+    "Data mining and analytics/Theory/Data preprocessing and preparation.md",
+    "Data mining and analytics/Theory/Data Understanding.md",
+    "Data mining and analytics/Theory/Distance and Similarity.md",
     "Machine Learning/Theory/1. Introduction/1. Machine Learning Exemplified.md",
     "Machine Learning/Theory/1. Introduction/2. About the book.md",
     "Machine Learning/Theory/5. Learning Parametric Models/4. Parameter Optimization.md",
     "Machine Learning/Theory/5. Learning Parametric Models/5. Optimization with Large Datasets.md",
-    "preamble.sty~",
     "Machine Learning/Theory/5. Learning Parametric Models/2. Loss Functions and Likelihood-Based Models.md",
-    "custom.css~",
-    "custom.css",
     "Machine Learning/Theory/2. Supervised Learning - A first Approach/2. A Distance Based Method - k-NN.md",
-    "Data mining and analytics/AIT3003 - Khai phá và phân tích dữ liệu/books/Book1-DataMining-ConceptsAndTechniques(3rdEd).pdf",
     "Data mining and analytics/Theory/An Introduction to Data Mining/1. Introduction.md",
     "Reinforcement learning/Note from slides/Lecture 3.md",
     "Reinforcement learning/Theory/2. Multi-armed Bandits/2.8 Gradient Bandit Algorithms.md",
-    "Reinforcement learning/Note from slides",
     "Reinforcement learning/Theory/2. Multi-armed Bandits/2.1 A k-armed Bandit Problem.md",
     "Machine Learning/Theory/3. Basic parametric models/2. Classification and Logistic Regression.md",
     "Reinforcement learning/Theory/2. Multi-armed Bandits/2.7 Upper-Confidence-Bound Action Selection.md",
@@ -236,14 +190,8 @@
     "Machine Learning/Theory/5. Learning Parametric Models/3. Regularization.md",
     "Probability and Statistics/Theory/5. Limit Theorems/5.4 The Central Limit Theorem.md",
     "Deep learning/Theory/Neural networks.md",
-    "Probability and Statistics/Theory/5. Limit Theorems/5.3 Convergence in probability.md",
-    "Probability and Statistics/Dimitri P. Bertsekas, John N. Tsitsiklis - Introduction to Probability, 2nd Edition  -Athena Scientific (2008).pdf",
-    "Probability and Statistics/Dimitri P. Bertsekas and John N. Tsitsiklis - Introduction to Probability 2nd Edition Problem Solutions-Athena Scientific (2019).pdf",
     "Pasted image 20241006192104.png",
     "Pasted image 20241002094328.png",
-    "Probability and Statistics/Theory/5. Limit Theorems",
-    "Probability and Statistics/Theory",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits",
     "Pasted image 20240811224417.png",
     "Pasted image 20240811100800.png",
     "Pasted image 20240810222006.png",
