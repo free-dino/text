@@ -97,6 +97,64 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b8e064db6ba97ba9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reinforcement learning/Theory/3. Finite Markov Decision Processes/3.1 The Agent-Environment Interface.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3.1 The Agent-Environment Interface"
+            }
+          },
+          {
+            "id": "f1525b54d22d1a1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reinforcement learning/Theory/3. Finite Markov Decision Processes/3.1 The Agent-Environment Interface.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3.1 The Agent-Environment Interface"
+            }
+          },
+          {
+            "id": "5cda98f3f4f1b95f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7fa0749908a7e6df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reinforcement learning/Theory/3. Finite Markov Decision Processes/3.1 The Agent-Environment Interface.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3.1 The Agent-Environment Interface"
+            }
           }
         ]
       }
