@@ -25,10 +25,14 @@
             "id": "cd4f5e905d19418b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Big Data Techniques and Technologies/1. Giới thiệu chung về dữ liệu lớn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Giới thiệu chung về dữ liệu lớn"
             }
           }
         ],
@@ -88,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "e49f6b232a5cc208",
@@ -186,6 +191,7 @@
   },
   "active": "cd4f5e905d19418b",
   "lastOpenFiles": [
+    "Data mining and analytics/Theory/Data Clustering.md",
     "Reinforcement learning/Theory/3. Finite Markov Decision Processes/3.1 The Agent-Environment Interface.md",
     "conflict-files-obsidian-git.md",
     "Reinforcement learning/Theory/3. Finite Markov Decision Processes/Synopsis.md",
@@ -195,7 +201,6 @@
     "Data mining and analytics/Theory/Data Understanding.md",
     "Data mining and analytics/Theory/Data preprocessing and preparation.md",
     "Data mining and analytics/Theory/Distance and Similarity.md",
-    "Data mining and analytics/Theory/Data Clustering.md",
     "Machine Learning/Theory/1. Introduction/1. Machine Learning Exemplified.md",
     "Machine Learning/Theory/1. Introduction/2. About the book.md",
     "Machine Learning/Theory/5. Learning Parametric Models/4. Parameter Optimization.md",
