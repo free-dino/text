@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "3.1 The Agent-Environment Interface"
             }
-          },
-          {
-            "id": "cd4f5e905d19418b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Big Data Techniques and Technologies/1. Giới thiệu chung về dữ liệu lớn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Giới thiệu chung về dữ liệu lớn"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "e49f6b232a5cc208",
@@ -189,14 +173,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd4f5e905d19418b",
+  "active": "b8c5e33dba75b402",
   "lastOpenFiles": [
+    "README.md",
+    "Reinforcement learning/Note.md",
+    "Reinforcement learning/DP.pdf",
+    "Reinforcement learning/Theory/Untitled.md",
+    "Machine Learning/Excercise/Linear regression math..md",
+    "Hardware for Deep Learning/Note.md",
+    "Big Data Techniques and Technologies/1. Giới thiệu chung về dữ liệu lớn.md",
+    "try.md",
     "Data mining and analytics/Theory/Data Clustering.md",
     "Reinforcement learning/Theory/3. Finite Markov Decision Processes/3.1 The Agent-Environment Interface.md",
     "conflict-files-obsidian-git.md",
     "Reinforcement learning/Theory/3. Finite Markov Decision Processes/Synopsis.md",
     "Reinforcement learning/Theory/3. Finite Markov Decision Processes",
-    "README.md",
     "Pasted image 20241106160428.png",
     "Data mining and analytics/Theory/Data Understanding.md",
     "Data mining and analytics/Theory/Data preprocessing and preparation.md",
@@ -218,18 +209,11 @@
     "Reinforcement learning/Theory/2. Multi-armed Bandits/2.1 A k-armed Bandit Problem.md",
     "Machine Learning/Theory/3. Basic parametric models/2. Classification and Logistic Regression.md",
     "Reinforcement learning/Theory/2. Multi-armed Bandits/2.7 Upper-Confidence-Bound Action Selection.md",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.6 Optimistic Initial Values..md",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.5 Tracking a Nonstationary Problem.md",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.4 Incremental Implementation.md",
-    "Machine Learning/Theory/@ Machine learning list.md",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.3 The 10-armed Testbed.md",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.2 Action-value Methods.md",
     "Probability and Statistics/Dimitri P. Bertsekas, John N. Tsitsiklis - Introduction to Probability, 2nd Edition  -Athena Scientific (2008).pdf",
     "Probability and Statistics/Dimitri P. Bertsekas and John N. Tsitsiklis - Introduction to Probability 2nd Edition Problem Solutions-Athena Scientific (2019).pdf",
     "Pasted image 20241006192104.png",
     "Pasted image 20241002094328.png",
     "Probability and Statistics/Theory/5. Limit Theorems",
-    "Probability and Statistics/Theory",
     "Pasted image 20240811224417.png",
     "Pasted image 20240811100800.png",
     "Pasted image 20240810222006.png",
