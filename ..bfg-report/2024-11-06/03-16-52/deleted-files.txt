@@ -1,0 +1,79 @@
+0c47b55e494382e74a089270a290316ffa5a8521 10107719  Doug Rose (auth.) - Data Science_ Create Teams That Ask the Right Questions and Deliver Real Value (2016, Apress) [10.1007_978-1-4842-2253-9] - libgen.li.pdf
+61f17f6069bbe1a276048426aeb9fa21a5d822cf 15010184 (1) Bhaumik Vaidya - Hands-On GPU-Accelerated Computer Vision with OpenCV and CUDA_ Effective Techniques for Processing Complex Image Data in Real Time Using GPUs.pdf
+656425f430b990967f83a9eb524323782656973e 16772657 (Adaptive Computation and Machine Learning series) Bengio, Yoshua_ Courville, Aaron_ Goodfellow, Ian J - Deep learning_ adaptive computation and machine learning-The MIT Press (2016).pdf
+45b9eb001b848bf85166a944227c3ff206762803 6464853 (Savvy manager_s guides) Ridge, Enda - Guerrilla analytics_ techniques for managing data and analytics teams-Elsevier Science_Morgan Kaufmann (2015).epub
+e2bae919cdd99ab4bbc39b0d9551d14321e52d95 6968781 (Undergraduate Texts in Mathematics) Sheldon Axler - Linear Algebra Done Right-Springer (2024).pdf
+965e18a88abc3a3ab48fb5998104b6aac96d9920 2350951 02_uninformed_search.pdf
+d8bd5c1a2a51caf6e631a99ab02a0b4d8513b508 21953580 ADITYA SHRIMALI VISHWESH RAVI BEYELER MICHAEL SHARMA - MACHINE LEARNING FOR OPENCV 4 _ intelligent algorithms for building image processing apps... using opencv 4, python, and scikit-learn, 2nd edit.-.pdf
+9d7b8c6a5273edab146dd844e3bba2416c4e38e4 27073524 Adrian Rosebrock - Deep Learning for Computer Vision with Python. 3-ImageNetBundle-PyImageSearch (2017).pdf
+0587d7910e20376a5f6425ea5a0d7cd18bcd9923 16072867 Book1-DataMining-ConceptsAndTechniques(3rdEd).pdf
+6a90c088199f03b55db493bcdd75667619bf38ba 17227663 Book2-DataMiningTheTextbook.pdf
+0f108208561eafa4a02a29a97f518e9fbf73ca2a 3740676 Book3-MiningOfMassiveDatasets.pdf
+758a7f22bf071dd7a87adcd807188cc520e9e9ee 22118546 Book4-Data Mining and Analysis - Fundamental Concepts and Algorithms.pdf
+d56535f5762a316192fe1fa2594dc68b43293580 19491605 Book5-NetworksCrowdsAndMarkets-ReasoningAboutAHighlyConnectedWorld.pdf
+5b1cd4b483c84e0159f341918e25d4f15d4bcc09 7843589 Book6-Jake VanderPlas-Python Data Science Handbook_  Essential Tools for Working with Data-O’Reilly Media (2016).pdf
+ae89b6c54db2fcbb1415df188991cd5fa1dcd293 6216449 Book7-Joel Grus-Data Science from Scratch_ First Principles with Python-OReilly Media (2015).pdf
+f2fa167b5e54cab61623b81c3f6c0f2f396c4b44 823976 DP.pdf
+6537a4039bcd8c7fe09878893274ca7044611214 127819171 David MillÃ¡n EscrivÃ¡ - Building Computer Vision Projects with OpenCV 4 and C++-Packt Publishing (2019).epub
+81249f96078cd7fe7d495f12e91abafbddeb0646 12504236 Davies E.R. - Computer vision. Principles, algorithms, applications, learning-Elsevier,Academic Press (2018).pdf
+d20c34f25b55d21c1fdd572fc6b89af83505180a 15331659 Deep Learning a Practitioners Approach.pdf
+5b0e5cd8339deb3e09f402381eb5c4f3e8382a36 1554851 Dimitri P. Bertsekas and John N. Tsitsiklis - Introduction to Probability 2nd Edition Problem Solutions-Athena Scientific (2019).pdf
+5e7ee7af9ff0d2f46a737a30dd01a3de6e71c6ea 18364999 Dimitri P. Bertsekas, John N. Tsitsiklis - Introduction to Probability, 2nd Edition  -Athena Scientific (2008).pdf
+00f9a73ea9a24bb8684b41c465b4d065e7ab35bb 38723532 Dive into Deep Learning.pdf
+059033ad7738d7e43a0f9520b2a0ec55b9534cbb 26920744 E. R. Davies (editor), Matthew Turk (editor) - Advanced Methods and Deep Learning in Computer Vision (Computer Vision and Pattern Recognition)-Academic Press (2021).pdf
+eb648149da0f118417add9b0c5af2d96f61f6ec1 15132084 FranÃ§ois Chollet - Deep Learning with Python-Manning Publications (2021).pdf
+22ce87e953b3790e34cc363b974c6a4a592e4512 12070932 Giáo trình - Machine Learning - A First Course for Engineers and Scientists.pdf
+8f8e0847f5d60ed8a468fcc898a20d35a0a02965 86361265 Gonzalez, Rafael C._ Woods, Richard E. - Digital image processing-Pearson (2018).pdf
+c2919ada4153a734ec22cce20099e668ca2ec989 16420105 Hannes Hapke, Catherine Nelson - Building Machine Learning Pipelines_ Automating Model Life Cycles with TensorFlow-O_Reilly Media (2020).pdf
+5768304b1e8b0932a2e4af9939bb1c85c7d749d9 15896400 INT3401 Bài 1 -- Giới thiệu.pptx
+3e7408ec3ece4dfb5bb82ad825474148f8bc9f7b 4157896 INT3401 Bài 10 -- Học máy - Naive Bayes.pptx
+e24d8a54ecaa351c337ee01aa531e01c2bfec1a6 4969709 INT3401 Bài 11 -- Học máy - Hồi quy Logistic.pptx
+f2334b94a2da41dba0e08d66cd056af7b93f9799 13706337 INT3401 Bài 12 -- Học máy - Mạng nơ-ron I.pptx
+c0e02d05dd4a1cfdc6878d98d56aed20e712dfb1 3894429 INT3401 Bài 13 -- Học máy - Mạng nơ-ron II.pptx
+ca988f129d9ef9b3da8831cd7fe14d5d6e43c92f 63534003 INT3401 Bài 16 -- Suy luận - Mạng Bayes I.pptx
+8187b8dc17d825de9c69740991e8b4fda186eba8 99553247 INT3401 Bài 17 -- Suy luận - Mạng Bayes II.pptx
+b7453878c2d8792714c0eb910d2641fe28db04e7 8320730 INT3401 Bài 2 -- Tìm kiếm mù.pptx
+1937be37b5178319234cec9c2a16b965b9951ed4 9151725 INT3401 Bài 3 -- Tìm kiếm dựa trên kinh nghiệm.pptx
+7841d6d8be4708c8477a98d36416dbd0b405f309 53391632 INT3401 Bài 4 -- Tìm kiếm có đối thủ.pptx
+dc014e6fae14ae170caec4975c28ef14bc37c0de 23397336 INT3401 Bài 5 -- Tìm kiếm không chắc chắn.pptx
+f5df9aa1284e7910b7c2b4a7524ce3b3aa0b27cc 14764262 INT3401 Bài 6 -- Lập kế hoạch - Quá trình quyết định Markov I.pptx
+23f8ac19528d106a7dd16afe5c390fe001ea7418 3475273 INT3401 Bài 7 -- Lập kế hoạch - Quá trình quyết định Markov II.pptx
+07020caca5b5c15512b296137304619cd5a16777 74305585 INT3401 Bài 8 -- Lập kế hoạch - Học tăng cường I.pptx
+fc83662dd18ee8b0b036fb0a7ab22f9ee7270520 85042713 INT3401 Bài 9 -- Lập kế hoạch - Học tăng cường II.pptx
+01579bccdf472ade4fccb8e7cdfb9b74f936ae0a 1818555 Jeremy Adamson - Minding the Machines_ Building and Leading Data Science and Analytics Teams-Wiley (2021).pdf
+e311bd4812668db24a57d16e2540dc5cf8fef099 3434148 Jesse Anderson - Data Teams_ A Unified Management Model for Successful Data-Focused Teams-Apress (2020).pdf
+7fecf746cd8117d2fe88987825a0e96ebbabfb79 19153439 Joseph Howse_ Joe Minichino - Learning OpenCV 5 Computer Vision with Python - Fourth Edition-Packt Publishing (2023).epub
+9bc6c99e99430a25930c298354b046905eecc233 12459771 Kirill Dubovikov - Managing Data Science_ Effective Strategies To Manage Data Science Projects And Build A Sustainable Team-Packt Publishing (2019).pdf
+42211d990ab23f846f485b5a262b8583a9ed6ba1 17595768 Mohamed Elgendy - Deep Learning for Vision Systems-Manning Publications (2020).pdf
+6b5928ba73f2a56d58a15cf033c8c4bb005cc4c9 10492044 PRINT-~1.pdf
+a039041bc514bd0b2b57681a65ea48390b0f5e69 3405441 PRINT-~2.pdf
+88ad53e2b5720feeabf81f69ca1b3d8352a8ffb3 13128747 PRINT-~3.pdf
+29cc671debd64851510ebaa29b5e482507faafc5 16408363 PRINT-~4.pdf
+a71ac1285b5d88c2e0c3a465d261932c0da19d64 74277657 PRINT-~5.pdf
+fe9c855a9f88dff96f97fac7237dde81b4b47e34 10734979 Richard Hartley Andrew Zisserman - Multiple View Geometry in Computer Vision, 2nd Edition (2004).pdf
+addcfd9a109ddb6597986907ca8d03402a3a6e65 27834637 Richard Szeliski - Computer Vision_ Algorithms and Applications (Texts in Computer Science)-Springer (2022).pdf
+b83164e367c11ba92cede4b1f7617c29dde3a0a9 10701721 Valliappa Lakshmanan, Martin GÃ¶rner, Ryan Gillard - Practical Machine Learning for Computer Vision_ End-to-End Machine Learning for Images-O_Reilly Media (2021).pdf
+267b064f948d9100a00a3fb37afb600c84e6f094 29479176 da-python-lec01.pdf
+c40de371395da4ee5cbb8fa246184883b0f593c0 307768 da-python-lec02.pdf
+6049fab77848504f5a63170470d5b98d9754d577 179682731 lec2-search-heuristics.mp4
+4c0035bdbf71623d87281eb4ec21af3be87879b8 160661866 lec3-adversarial-search.mp4
+ec5013a714cc04cbd71cd0c347843e1287235e3b 29862614 murphy_raymond_english_grammar_in_use.pdf
+5606dfca176f74acbf2c6b06247f5c11810ff159 26950739 print-(Adaptive Computation and Machine Learning) Kevin P. Murphy - Machine Learning_ A Probabilistic Perspective-The MIT Press (2012).pdf
+1e1eb29e5ac27e7f958247713247a4e042297f22 5613013 print-Allen B. Downey - Think Python, 2nd Edition_ How to Think Like a Computer Scientist-O_Reilly Media (2015).pdf
+bae577f78e082c8adc92764bfe1451a7beb6ded2 15299176 print-Avinash Navlani, Armando Fandango, Ivan Idris - Python Data Analysis Perform data collection, data processing, wrangling, visualization, and model building using Python-Packt (2021).epub
+b4143c12d420689184bd09cbf96d64bdc35d0ea7 16294308 print-Brett Slatkin - Effective Python 59 specific ways to write better Python-Addison-Wesley Professional (2020).epub
+325d386409e08fb2d99add28111bfde439314adc 68749169 print-Clifford A Pickover - Clifford A Pickover Artificial Intelligence An Illustrated History From Medieval Robots to Neural Networks Sterling 2019 (2019).pdf
+950a1161575e1b6fa90284154c95270be433b00c 1367370 print-Dan Bader - Python Tricks_ A Buffet of Awesome Python Features (2017).pdf
+69b2d9ad15f39035e89a69ed63d4346f83b8cf98 5989569 print-Daniel A. Roberts, Sho Yaida - The Principles of Deep Learning Theory_ An Effective Theory Approach to Understanding Neural Networks.pdf
+9bb44910a6ce1fe099177b2646a9cf5ea117c781 12535335 print-Erik J. Larson - The Myth of Artificial Intelligence_ Why Computers Can’t Think the Way We Do-Belknap Press_ An Imprint of Harvard University Press (2021).pdf
+4d32d5b69cb1c9bb058847e0dd5cd6b171145d11 12180173 print-Jaime Buelta - Python Automation Cookbook_ 75 Python automation ideas for web scraping, data wrangling, and processing Excel, reports, emails, and more, 2nd Edition-Packt Publishing Ltd (2020).pdf
+260adcb11ea451fb2f3d991862e289ecc6b0edd4 16456139 print-Luciano Ramalho - Fluent Python_ Clear, Concise, and Effective Programming-O_Reilly Media (2022).pdf
+188493fdacf87588fd4e2248053caf4593138953 3150827 print-Mariano Anaya - Clean Code in Python_ Develop maintainable and efficient code, 2nd Edition-Packt Publishing Ltd (2021).pdf
+c9fb3a17d00587adf36c75072bbacb8e5fe7807e 3130713 print-Michael Wooldridge - A Brief History of Artificial Intelligence_ What It Is, Where We Are, and Where We Are Going-Flatiron Books (2021).epub
+78a261c41d60091229764f5b3efc59dc122d1444 13884614 print-Paul Barry - Head First Python_ A Brain-Friendly Guide 2nd Edition-O_Reilly Media (2016).pdf
+e5ccb53046ced4b06828a99354737fcbc2b819c1 19640386 print-Robert Sedgewick, Kevin Wayne - Computer Science_ An Interdisciplinary Approach-Addison-Wesley Professional (2016).pdf
+7b3e81fc4051685aa81d3789411358bc23ec19d2 68953394 print-Robert Sedgewick, Kevin Wayne, Robert Dondero - Introduction to Programming in Python_ An Interdisciplinary Approach (2015).pdf
+b103143917dd9ef5cdffcf8b0c4dee7b5643eded 22258770 print-Stuart J. Russell_ Stuart Jonathan Russell_ Peter Norvig_ Ernest Davis - Artificial Intelligence_ A Modern Approach-Prentice Hall (2020).pdf
+db0a179af333bb5878a228ee901260c462e0b251 12338524 print-Sweigart, Al - Invent your own computer games with Python-No Starch Press (2017).pdf
+7bbaf8425a4af7284f5ec84ecd5addbf628ee1d2 6184621 print-Zed A. Shaw - Learn Python 3 the Hard Way_ A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code-Addison-Wesley Professional (2017).pdf
+1c87f45f6b2f7cdc02708cd06ef807197fb54324 20739412 print-Zoltán Somogyi - The Application of Artificial Intelligence_ Step-by-Step Guide from Beginner to Expert-Springer (2021).pdf
