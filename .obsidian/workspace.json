@@ -11,26 +11,14 @@
             "id": "a01c44dd0699a640",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Data mining and analytics/AIT3003 - Khai phá và phân tích dữ liệu/books/Book2-DataMiningTheTextbook.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Book2-DataMiningTheTextbook"
-            }
-          },
-          {
-            "id": "91e42450a3b8989b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Calculus 1/1. Introduction/1.1 The Continuum of Numbers/a. The System of Natural Numbers and Its Extension. Counting and Measuring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "a. The System of Natural Numbers and Its Extension. Counting and Measuring"
             }
           },
           {
@@ -45,8 +33,7 @@
               "title": "Book3-MiningOfMassiveDatasets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "e49f6b232a5cc208",
@@ -197,14 +185,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91e42450a3b8989b",
+  "active": "a01c44dd0699a640",
   "lastOpenFiles": [
+    "Calculus 1/1. Introduction/1.1 The Continuum of Numbers/Synopsis.md",
+    "Calculus 1/1. Introduction/Synopsis.md",
+    "Calculus 1/1. Introduction/1.1 The Continuum of Numbers/a. The System of Natural Numbers and Its Extension. Counting and Measuring.md",
+    "Big Data Techniques and Technologies/2. Mô hình lập trình MapReduce và Hadoop.md",
+    "Calculus 1/1. Introduction/1.1 The Continuum of Numbers",
+    "Calculus 1/Introduction/Untitled",
+    "Calculus 1/1. Introduction",
+    "Calculus 2",
+    "Calculus 1",
     "Data mining and analytics/AIT3003 - Khai phá và phân tích dữ liệu/books/Book2-DataMiningTheTextbook.pdf",
     "conflict-files-obsidian-git.md",
     "Big Data Techniques and Technologies/Hadoop.md",
     "Pasted image 20241109224121.png",
     "Pasted image 20241109224118.png",
-    "Big Data Techniques and Technologies/2. Mô hình lập trình MapReduce và Hadoop.md",
     "Big Data Techniques and Technologies/1. Giới thiệu chung về dữ liệu lớn.md",
     "Data mining and analytics/AIT3003 - Khai phá và phân tích dữ liệu/books/Book3-MiningOfMassiveDatasets.pdf",
     "Reinforcement learning/Theory/3. Finite Markov Decision Processes/3.1 The Agent-Environment Interface.md",
@@ -216,11 +212,6 @@
     "Reinforcement learning/Theory/3. Finite Markov Decision Processes",
     "Programming for Data Engineering with Python/AIT2003 - Lập trình xử lý dữ liệu với Python/python/print-Luciano Ramalho - Fluent Python_ Clear, Concise, and Effective Programming-O_Reilly Media (2022).pdf",
     "Deep learning/AIT3001 - Học sâu/(Adaptive Computation and Machine Learning series) Bengio, Yoshua_ Courville, Aaron_ Goodfellow, Ian J - Deep learning_ adaptive computation and machine learning-The MIT Press (2016).pdf",
-    "Visual processing and analytics/AIT3002 - Xử lý và phân tích hình ảnh/books/Mohamed Elgendy - Deep Learning for Vision Systems-Manning Publications (2020).pdf",
-    "Programming for Data Engineering with Python/AIT2003 - Lập trình xử lý dữ liệu với Python/python/print-Dan Bader - Python Tricks_ A Buffet of Awesome Python Features (2017).pdf",
-    "Reinforcement learning/DP.pdf",
-    "Data mining and analytics/AIT3003 - Khai phá và phân tích dữ liệu/teams/Jesse Anderson - Data Teams_ A Unified Management Model for Successful Data-Focused Teams-Apress (2020).pdf",
-    "Programming for Data Engineering with Python/AIT2003 - Lập trình xử lý dữ liệu với Python/books/PRINT-~2.pdf",
     "Data mining and analytics/Theory/Data Clustering.md",
     "Data mining and analytics/Theory/Data preprocessing and preparation.md",
     "Data mining and analytics/Theory/Data Understanding.md",
@@ -235,8 +226,6 @@
     "Reinforcement learning/Note from slides/Lecture 3.md",
     "Machine Learning/Theory/3. Basic parametric models/2. Classification and Logistic Regression.md",
     "Reinforcement learning/Theory/2. Multi-armed Bandits/2.7 Upper-Confidence-Bound Action Selection.md",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.6 Optimistic Initial Values..md",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.5 Tracking a Nonstationary Problem.md",
     "Pasted image 20241006192104.png",
     "Pasted image 20241002094328.png",
     "Pasted image 20240811224417.png",
