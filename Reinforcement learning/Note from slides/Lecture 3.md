@@ -98,6 +98,8 @@ $\implies v_\pi^{\text{Fast}}(\text{Cool}) = 0.5$
 $\implies v_\pi^{\text{Slow}}(\text{Warm}) = 0$
 $\implies v_\pi^{\text{Slow}}(\text{Warm}) = -4$ 
 
+
+
 now:
 
 $$
@@ -146,3 +148,8 @@ q_\pi(\text{Warm, Fast}) &= 2 + -10 = -8
 $$
 
 
+
+
+$\gamma = 0.5$
+
+$\v v^{k+1} = \mat R^{\v \pi}$ +    
