@@ -1,0 +1,5 @@
+# The Natural and the Rational Numbers
+- The inverse operations, subtraction and division are not always possible within the set of natural numbers. -> extend the concept of number by inventing the number $0$, the "negative" integers and fraction -> rational numbers.
+- A rational number can always be written in the from $\frac p q$ where $p$ and $q$ are integers and $q \not = 0$. We can make this presentation unique by requiring that $q$ is positive and that $p$ and $q$ have no common factor larger than 1.
+# Graphical Representation of Rational Numbers
+- Usually represented graphically by points on a straight line $L$, the number axis. Taking an arbitrary point of $L$ as the origin or point $0$ and another arbitrary point as the point $1$ -> distance between these 2 points to serve as a scale or unit of measurement and define the direction from $0$ to $1$

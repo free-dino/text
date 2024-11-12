@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a01c44dd0699a640",
+            "id": "dca12ab7ee26b845",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 1/1. Introduction/1.1 The Continuum of Numbers/a. The System of Natural Numbers and Its Extension. Counting and Measuring.md",
+                "file": "Reinforcement learning/Note from slides/Lecture 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a. The System of Natural Numbers and Its Extension. Counting and Measuring"
-            }
-          },
-          {
-            "id": "2e6667f239d1e04f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Data mining and analytics/AIT3003 - Khai phá và phân tích dữ liệu/books/Book3-MiningOfMassiveDatasets.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Book3-MiningOfMassiveDatasets"
+              "title": "Lecture 3"
             }
           }
         ]
@@ -89,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "e49f6b232a5cc208",
@@ -185,33 +172,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a01c44dd0699a640",
+  "active": "dca12ab7ee26b845",
   "lastOpenFiles": [
+    "Calculus 2/Book/(Classics in Mathematics) Richard Courant, Fritz John (auth.) - Introduction to Calculus and Analysis II_1-Springer-Verlag Berlin Heidelberg (2000).pdf",
+    "Calculus 2/Book",
+    "Calculus 2/Theory",
+    "Calculus 1/Book/(Classics in Mathematics) Richard Courant, Fritz John (auth.) - Introduction to Calculus and Analysis I-Springer-Verlag Berlin Heidelberg (1999).pdf",
+    "Calculus 1/Theory/1. Introduction/1.1 The Continuum of Numbers/a. The System of Natural Numbers and Its Extension. Counting and Measuring.md",
+    "Calculus 1/Theory/1. Introduction/1.1 The Continuum of Numbers/Synopsis.md",
+    "Calculus 1/Theory/1. Introduction/Synopsis.md",
+    "Calculus 1/Theory/1. Introduction/1.1 The Continuum of Numbers",
+    "Calculus 1/Theory/1. Introduction",
+    "Calculus 1/Theory",
+    "Calculus 1/Book",
+    "Data mining and analytics/AIT3003 - Khai phá và phân tích dữ liệu/books/Book3-MiningOfMassiveDatasets.pdf",
+    "Calculus 1/1. Introduction/1.1 The Continuum of Numbers/a. The System of Natural Numbers and Its Extension. Counting and Measuring.md",
     "Calculus 1/1. Introduction/1.1 The Continuum of Numbers/Synopsis.md",
     "Calculus 1/1. Introduction/Synopsis.md",
-    "Calculus 1/1. Introduction/1.1 The Continuum of Numbers/a. The System of Natural Numbers and Its Extension. Counting and Measuring.md",
     "Big Data Techniques and Technologies/2. Mô hình lập trình MapReduce và Hadoop.md",
     "Calculus 1/1. Introduction/1.1 The Continuum of Numbers",
     "Calculus 1/Introduction/Untitled",
-    "Calculus 1/1. Introduction",
-    "Calculus 2",
-    "Calculus 1",
-    "Data mining and analytics/AIT3003 - Khai phá và phân tích dữ liệu/books/Book2-DataMiningTheTextbook.pdf",
     "conflict-files-obsidian-git.md",
     "Big Data Techniques and Technologies/Hadoop.md",
     "Pasted image 20241109224121.png",
     "Pasted image 20241109224118.png",
     "Big Data Techniques and Technologies/1. Giới thiệu chung về dữ liệu lớn.md",
-    "Data mining and analytics/AIT3003 - Khai phá và phân tích dữ liệu/books/Book3-MiningOfMassiveDatasets.pdf",
     "Reinforcement learning/Theory/3. Finite Markov Decision Processes/3.1 The Agent-Environment Interface.md",
     "Pasted image 20241106160428.png",
     "Reinforcement learning/Theory/3. Finite Markov Decision Processes/Synopsis.md",
     "Reinforcement learning/Theory/2. Multi-armed Bandits/2.1 A k-armed Bandit Problem.md",
     "Reinforcement learning/Theory/2. Multi-armed Bandits/Synopsis.md",
     "Reinforcement learning/Theory/2. Multi-armed Bandits/2.8 Gradient Bandit Algorithms.md",
-    "Reinforcement learning/Theory/3. Finite Markov Decision Processes",
-    "Programming for Data Engineering with Python/AIT2003 - Lập trình xử lý dữ liệu với Python/python/print-Luciano Ramalho - Fluent Python_ Clear, Concise, and Effective Programming-O_Reilly Media (2022).pdf",
-    "Deep learning/AIT3001 - Học sâu/(Adaptive Computation and Machine Learning series) Bengio, Yoshua_ Courville, Aaron_ Goodfellow, Ian J - Deep learning_ adaptive computation and machine learning-The MIT Press (2016).pdf",
     "Data mining and analytics/Theory/Data Clustering.md",
     "Data mining and analytics/Theory/Data preprocessing and preparation.md",
     "Data mining and analytics/Theory/Data Understanding.md",
@@ -222,10 +213,6 @@
     "Machine Learning/Theory/5. Learning Parametric Models/5. Optimization with Large Datasets.md",
     "Machine Learning/Theory/5. Learning Parametric Models/2. Loss Functions and Likelihood-Based Models.md",
     "Machine Learning/Theory/2. Supervised Learning - A first Approach/2. A Distance Based Method - k-NN.md",
-    "Data mining and analytics/Theory/An Introduction to Data Mining/1. Introduction.md",
-    "Reinforcement learning/Note from slides/Lecture 3.md",
-    "Machine Learning/Theory/3. Basic parametric models/2. Classification and Logistic Regression.md",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.7 Upper-Confidence-Bound Action Selection.md",
     "Pasted image 20241006192104.png",
     "Pasted image 20241002094328.png",
     "Pasted image 20240811224417.png",
