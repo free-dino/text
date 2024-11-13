@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Reinforcement learning/Note from slides/Lecture 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 5"
+            }
+          },
+          {
+            "id": "ddac5764d13f5c28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Reinforcement learning/Note from slides/Lecture 4.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "Lecture 4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,17 +188,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dca12ab7ee26b845",
+  "active": "ddac5764d13f5c28",
   "lastOpenFiles": [
+    "Reinforcement learning/Note from slides/Lecture 3.md",
+    "Reinforcement learning/Note from slides/Lecture 5.md",
+    "Reinforcement learning/Note from slides/Lecture 4.md",
     "Reinforcement learning/Note.md",
     "Reinforcement learning/DP.pdf",
     "Reinforcement learning/Theory/2. Multi-armed Bandits/2.3 The 10-armed Testbed.md",
     "Reinforcement learning/Theory/2. Multi-armed Bandits/2.2 Action-value Methods.md",
     "Reinforcement learning/Theory/2. Multi-armed Bandits/2.1 A k-armed Bandit Problem.md",
     "Reinforcement learning/Theory/3. Finite Markov Decision Processes/3.1 The Agent-Environment Interface.md",
-    "Reinforcement learning/Note from slides/Lecture 4.md",
     "Pasted image 20241112204322.png",
-    "Reinforcement learning/Note from slides/Lecture 3.md",
     "Calculus 2/Book/(Classics in Mathematics) Richard Courant, Fritz John (auth.) - Introduction to Calculus and Analysis II_1-Springer-Verlag Berlin Heidelberg (2000).pdf",
     "Calculus 2/Book",
     "Calculus 2/Theory",
@@ -214,7 +230,6 @@
     "Data mining and analytics/Theory/Data Understanding.md",
     "Data mining and analytics/Theory/Distance and Similarity.md",
     "Machine Learning/Theory/1. Introduction/1. Machine Learning Exemplified.md",
-    "Machine Learning/Theory/1. Introduction/2. About the book.md",
     "Pasted image 20241006192104.png",
     "Pasted image 20241002094328.png",
     "Pasted image 20240811224417.png",
