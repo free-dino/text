@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "50b312da58068a81",
+        "id": "31c9e812ac1ff4a4",
         "type": "tabs",
         "children": [
           {
-            "id": "dca12ab7ee26b845",
+            "id": "9a8a82245abd8a4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement learning/Note from slides/Lecture 5.md",
+                "file": "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence/c. a_n = frac {n}{n+1}.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 5"
-            }
-          },
-          {
-            "id": "ddac5764d13f5c28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement learning/Note from slides/Lecture 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 4"
+              "title": "c. a_n = frac {n}{n+1}"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,48 +173,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ddac5764d13f5c28",
+  "active": "9a8a82245abd8a4b",
   "lastOpenFiles": [
-    "Reinforcement learning/Note from slides/Lecture 3.md",
-    "Reinforcement learning/Note from slides/Lecture 5.md",
-    "Reinforcement learning/Note from slides/Lecture 4.md",
-    "Reinforcement learning/Note.md",
+    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence/b. a_{2m} = frac {1}{m}; a_{2m-1} = frac 1 {2m}.md",
+    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence/a. a_n = frac{1}{n}.md",
+    "Calculus 1/Theory/1. Introduction/1.5 Mathematical Induction/Synopsis.md",
+    "Calculus 1/Theory/1. Introduction/1.3 The Elementary Functions/c. Trigonometric Functions.md",
+    "Calculus 1/Theory/1. Introduction/1.3 The Elementary Functions/b. Algebraic Functions.md",
+    "Calculus 1/Theory/1. Introduction/1.3 The Elementary Functions/a. Rational Functions.md",
+    "Calculus 1/Theory/1. Introduction/1.2 The Concept of Function/e. The Intermediate Value Theorem. Inverse Functions.md",
+    "Calculus 1/Theory/1. Introduction/1.2 The Concept of Function/d. Continuity.md",
+    "Calculus 1/Theory/1. Introduction/1.2 The Concept of Function/c. Graphical Representation. Monotonic Functions.md",
+    "Calculus 1/Theory/1. Introduction/1.1 The Continuum of Numbers/e. Inequalities.md",
+    "Calculus 1/Theory/1. Introduction/1.1 The Continuum of Numbers/d. Definition of Neighborhood.md",
+    "Calculus 1/Theory/1. Introduction/1.1 The Continuum of Numbers/a. The System of Natural Numbers and Its Extension. Counting and Measuring.md",
+    "Machine Learning/Theory/6. Neural Networks and Deep Learning/1. The Neural Network Model.md",
+    "Calculus 1/Theory/1. Introduction/1.1 The Continuum of Numbers/Synopsis.md",
+    "Calculus 1/Theory/1. Introduction/1.1 The Continuum of Numbers/b. Real Numbers and Nested Intervals.md",
+    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence/i. a_n = sqrt {n-1} - sqrt {n}.md",
+    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence/h. a_n = sqrt<n> n.md",
+    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence/g. The Geometric Series.md",
+    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence/f. Geometrical Illustration of the Limits of alpha**n and sqrt<n> p.md",
+    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence/e. a_n = alpha**n.md",
+    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence/d. a_n = sqrt<n> p.md",
+    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence/c. a_n = frac {n}{n+1}.md",
+    "Calculus 1/Book/(Classics in Mathematics) Richard Courant, Fritz John (auth.) - Introduction to Calculus and Analysis I-Springer-Verlag Berlin Heidelberg (1999).pdf",
+    "Calculus 1/Theory/1. Introduction/1.3 The Elementary Functions/e. Compound Functions, Symbolic Products, Inverse Functions.md",
+    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence",
+    "Calculus 1/Theory/1. Introduction/1.5 Mathematical Induction",
+    "Calculus 1/Theory/1. Introduction/1.4 Sequences",
+    "Calculus 1/Theory/1. Introduction/1.3 The Elementary Functions/d. The Exponential Function and the Logarithm.md",
+    "Calculus 1/Theory/1. Introduction/1.3 The Elementary Functions",
+    "Calculus 1/Theory/1. Introduction/1.2 The Concept of Function/b. Definition of the Concept of Functions of a Continuous Variable. Domain and Range of a Function.md",
+    "Calculus 1/Theory/1. Introduction/1.2 The Concept of Function/a. Mapping-Graph.md",
+    "Calculus 1/Theory/1. Introduction/1.2 The Concept of Function",
     "Reinforcement learning/DP.pdf",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.3 The 10-armed Testbed.md",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.2 Action-value Methods.md",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.1 A k-armed Bandit Problem.md",
-    "Reinforcement learning/Theory/3. Finite Markov Decision Processes/3.1 The Agent-Environment Interface.md",
     "Pasted image 20241112204322.png",
     "Calculus 2/Book/(Classics in Mathematics) Richard Courant, Fritz John (auth.) - Introduction to Calculus and Analysis II_1-Springer-Verlag Berlin Heidelberg (2000).pdf",
     "Calculus 2/Book",
     "Calculus 2/Theory",
-    "Calculus 1/Book/(Classics in Mathematics) Richard Courant, Fritz John (auth.) - Introduction to Calculus and Analysis I-Springer-Verlag Berlin Heidelberg (1999).pdf",
-    "Calculus 1/Theory/1. Introduction/1.1 The Continuum of Numbers/a. The System of Natural Numbers and Its Extension. Counting and Measuring.md",
-    "Calculus 1/Theory/1. Introduction/1.1 The Continuum of Numbers/Synopsis.md",
-    "Calculus 1/Theory/1. Introduction/Synopsis.md",
-    "Calculus 1/Theory/1. Introduction/1.1 The Continuum of Numbers",
-    "Calculus 1/Theory/1. Introduction",
-    "Calculus 1/Theory",
-    "Calculus 1/Book",
-    "Data mining and analytics/AIT3003 - Khai phá và phân tích dữ liệu/books/Book3-MiningOfMassiveDatasets.pdf",
-    "Calculus 1/1. Introduction/1.1 The Continuum of Numbers/a. The System of Natural Numbers and Its Extension. Counting and Measuring.md",
-    "Calculus 1/1. Introduction/1.1 The Continuum of Numbers/Synopsis.md",
-    "Calculus 1/1. Introduction/Synopsis.md",
-    "Big Data Techniques and Technologies/2. Mô hình lập trình MapReduce và Hadoop.md",
-    "conflict-files-obsidian-git.md",
-    "Big Data Techniques and Technologies/Hadoop.md",
     "Pasted image 20241109224121.png",
     "Pasted image 20241109224118.png",
-    "Big Data Techniques and Technologies/1. Giới thiệu chung về dữ liệu lớn.md",
     "Pasted image 20241106160428.png",
-    "Reinforcement learning/Theory/3. Finite Markov Decision Processes/Synopsis.md",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits/Synopsis.md",
-    "Reinforcement learning/Theory/2. Multi-armed Bandits/2.8 Gradient Bandit Algorithms.md",
-    "Data mining and analytics/Theory/Data Clustering.md",
-    "Data mining and analytics/Theory/Data preprocessing and preparation.md",
-    "Data mining and analytics/Theory/Data Understanding.md",
-    "Data mining and analytics/Theory/Distance and Similarity.md",
-    "Machine Learning/Theory/1. Introduction/1. Machine Learning Exemplified.md",
     "Pasted image 20241006192104.png",
     "Pasted image 20241002094328.png",
     "Pasted image 20240811224417.png",
