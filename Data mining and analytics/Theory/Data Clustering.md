@@ -1,7 +1,7 @@
 # 1. Data clustering
 - Also called: unsupervised learning/unsupervised classification.
 - Learning by observation
-- Two man types of clustering:
+- Two main types of clustering:
   - Hard clustering: each data point belongs to only one cluster.
   - Soft clustering: each data point can belong to one or more cluster.
 - Some characteristics:
