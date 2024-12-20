@@ -32,4 +32,39 @@ $idf_t$ is the inverse document frequency: $\log_{10}\frac{N}{df_t}$ with $N$ is
 Dense vector
 In practice Dense vector work better. 
 ### Skip Gram with negative sampling
-Goal: training a classifier that is given a candidate
+Goal: training a classifier that is given a candidate (**w**ord, **c**ontext)
+$$
+\begin{align}
+&\P(+ \mid w, c) \\
+&\P(-\mid w, c) = 1-\P(+\mid w,c) 
+\end{align}
+$$
+Remember: 2 vector are similar if they have high dot product
+- Cosine is just a normalized dot product
+
+So: 
+$$
+\text{Similarity}(w, c) \propto w \cdot c
+$$
+We'll need to normalize to get a probability.
+
+We'll use the sigmoid function from [[2. Classification and Logistic Regression|logistic regression]] :
+$$
+\begin{align}
+\P(+\mid w,c) &= \sigma(w\cdot c) = \frac {1}{1+\exp(-c \cdot w)} \\
+\P(- \mid w, c) &= 1- \P(+\mid w,c) = \sigma(-w \cdot c) = \frac {1}{1+\exp(c \cdot w)}
+\end{align}
+$$
+How to compute:
+$$
+\begin{align}
+\P(+\mid w, c_{1:L}) &= \prod_{i=1}^L\sigma(w \cdot c_i) \\
+\log \P(- \mid w, c_{1:L}) &= \sum_{i=1}^{L} \log\sigma(w\cdot c_i)
+\end{align}
+$$
+-> Estimate the probability that $w$ occurs in the this window
+Loss function:
+$$
+
+$$
+
