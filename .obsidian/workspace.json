@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural language processing/Notes from the slides/N-grams.md",
+                "file": "Natural language processing/Notes from the slides/Vector semantics and Embedding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "N-grams"
+              "title": "Vector semantics and Embedding"
             }
           }
         ]
@@ -175,13 +175,14 @@
   },
   "active": "9376004068a79ba1",
   "lastOpenFiles": [
+    "Natural language processing/Notes from the slides/N-grams.md",
+    "Natural language processing/Notes from the slides/Vector semantics and Embedding.md",
     "preamble.sty~",
     "Data mining and analytics/Theory/Data preprocessing and preparation.md",
     "Data mining and analytics/Theory/Data Understanding.md",
     "Data mining and analytics/Theory/Distance and Similarity.md",
     "Data mining and analytics/Theory/Data Clustering.md",
     "Machine Learning/Theory/1. Introduction/2. About the book.md",
-    "Natural language processing/Notes from the slides/N-grams.md",
     "Probability and Statistics/Dimitri P. Bertsekas, John N. Tsitsiklis - Introduction to Probability, 2nd Edition  -Athena Scientific (2008).pdf",
     "Probability and Statistics/Theory/5. Limit Theorems/5.4 The Central Limit Theorem.md",
     "Probability and Statistics/Theory/5. Limit Theorems/5.3 Convergence in probability.md",
