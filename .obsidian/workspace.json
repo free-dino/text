@@ -4,21 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "4392f1c8822e8e33",
+        "id": "65d148a416db58c8",
         "type": "tabs",
         "children": [
           {
-            "id": "4ac47eefbefe733c",
+            "id": "57cbd2e9a37b826c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural language processing/Notes from the slides/Context-free Grammar.md",
+                "file": "Modeling and Optimization for Machine Learning/Theory/2. Convex sets/Example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Context-free Grammar"
+              "title": "Example"
+            }
+          },
+          {
+            "id": "490eed68960d274a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1b76b6f8d856bbae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a47a2263fbd1c27b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Modeling and Optimization for Machine Learning/bv_cvxbook.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "bv_cvxbook"
             }
           }
         ]
@@ -77,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "e49f6b232a5cc208",
@@ -149,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Natural language processing/Notes from the slides/Context-free Grammar.md"
+                "file": "Natural language processing/Notes from the slides/Problem.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Context-free Grammar"
+              "title": "Outline of Problem"
             }
           }
         ]
@@ -170,56 +199,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a466fba2ddda9d39",
+  "active": "a47a2263fbd1c27b",
   "lastOpenFiles": [
-    "Natural language processing/Notes from the slides/Vector semantics and Embedding.md",
-    "Excalidraw/Drawing 2024-12-20 23.25.14.excalidraw.md",
-    "Natural language processing/Notes from the slides/Context-free Grammar.md",
+    "Modeling and Optimization for Machine Learning/Theory/2. Convex sets/Example.md",
+    "Modeling and Optimization for Machine Learning/Theory/2. Convex sets/2.1 Affine and convex sets.md",
+    "Modeling and Optimization for Machine Learning/Theory/2. Convex sets/Example/Chapter 2.",
+    "Modeling and Optimization for Machine Learning/Theory/2. Convex sets/Example",
+    "Modeling and Optimization for Machine Learning/bv_cvxbook.pdf",
+    "Linear algebra/Theory/Vector Spaces/2. Definition of Vector Space.md",
+    "Linear algebra/Theory/Vector Spaces/1. Real space and Complex Space.md",
+    "Linear algebra/Theory/Vector Spaces/@ List of Vector Spaces.md",
+    "Linear algebra/Proofs/Vector Spaces/Commutativity of addition in F-n.md",
+    "Pasted image 20241229143629.png",
+    "Modeling and Optimization for Machine Learning/Preface/1. Introduction/1.3 Convex optimization.md",
+    "Modeling and Optimization for Machine Learning/Theory/Untitled.md",
+    "Modeling and Optimization for Machine Learning/Theory/2. Convex sets",
+    "Modeling and Optimization for Machine Learning/Theory",
+    "Modeling and Optimization for Machine Learning/Preface/Untitled",
+    "Modeling and Optimization for Machine Learning/Preface/1. Introduction/1.2 Least-squares and linear programming.md",
+    "Modeling and Optimization for Machine Learning/Preface/1. Introduction/1.1 Mathematical optimization.md",
+    "Calculus 1/Theory/1. Introduction/1.2 The Concept of Function/e. The Intermediate Value Theorem. Inverse Functions.md",
+    "Modeling and Optimization for Machine Learning/Preface/1. Introduction",
+    "Modeling and Optimization for Machine Learning/Preface",
+    "Modeling and Optimization for Machine Learning/List.md",
+    "Modeling and Optimization for Machine Learning/8. Duality in linear programs.md",
+    "Modeling and Optimization for Machine Learning/7. Proximal Gradient Descent.md",
+    "Modeling and Optimization for Machine Learning/6. Subgradient method.md",
+    "Modeling and Optimization for Machine Learning/5 Subgradients.md",
+    "Modeling and Optimization for Machine Learning/4. Gradient Descent.md",
+    "Modeling and Optimization for Machine Learning/3. Canonical Problem Forms.md",
+    "Modeling and Optimization for Machine Learning/2. Optimization Basics.md",
+    "Modeling and Optimization for Machine Learning/@2 Bayesian network.md",
+    "Modeling and Optimization for Machine Learning/@1 Introduction.md",
+    "Linear algebra/books/(Undergraduate Texts in Mathematics) Sheldon Axler - Linear Algebra Done Right-Springer (2024).pdf",
+    "Modeling and Optimization for Machine Learning/bv_cvxbook.pdf.opdownload",
+    "Probability and Statistics/Theory/1. Sample Space and Probability/1.1 Sets.md",
+    "Probability and Statistics/Theory/Untitled.md",
+    "Probability and Statistics/Theory/Untitled.canvas",
+    "Weird shit I found online/Vector-Jacobian product and Jacobian-vector product.md",
+    "Weird shit I found online/Noise-Step paper.md",
+    "Machine Learning/Theory/3. Basic parametric models/2. Classification and Logistic Regression.md",
+    "Pasted image 20241223210447.png",
+    "Pasted image 20241223210430.png",
     "Pasted image 20241220235837.png",
     "Pasted image 20241220234335.png",
     "Pasted image 20241220234045.png",
     "Pasted image 20241220233453.png",
-    "Excalidraw",
-    "Untitled.md",
-    "Machine Learning/Theory/3. Basic parametric models/2. Classification and Logistic Regression.md",
-    "Natural language processing/Notes from the slides/N-grams.md",
-    "preamble.sty~",
-    "Data mining and analytics/Theory/Data preprocessing and preparation.md",
-    "Data mining and analytics/Theory/Data Understanding.md",
-    "Data mining and analytics/Theory/Distance and Similarity.md",
-    "Data mining and analytics/Theory/Data Clustering.md",
-    "Machine Learning/Theory/1. Introduction/2. About the book.md",
-    "Probability and Statistics/Dimitri P. Bertsekas, John N. Tsitsiklis - Introduction to Probability, 2nd Edition  -Athena Scientific (2008).pdf",
-    "Probability and Statistics/Theory/5. Limit Theorems/5.4 The Central Limit Theorem.md",
-    "Probability and Statistics/Theory/5. Limit Theorems/5.3 Convergence in probability.md",
-    "Probability and Statistics/Theory/5. Limit Theorems/5.2 The weak law of large numbers.md",
-    "Probability and Statistics/Theory/5. Limit Theorems/5.1 Markov and Chebyshev inequalities.md",
-    "Natural language processing/Untitled.md",
-    "Natural language processing/Notes from the slides",
-    "Deep learning/Theory/Seq2Seq.md",
-    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence/g. The Geometric Series.md",
-    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence/f. Geometrical Illustration of the Limits of alpha**n and sqrt<n> p.md",
-    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence/e. a_n = alpha**n.md",
-    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence/d. a_n = sqrt<n> p.md",
-    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence/c. a_n = frac {n}{n+1}.md",
-    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence/b. a_{2m} = frac {1}{m}; a_{2m-1} = frac 1 {2m}.md",
-    "Calculus 1/Theory/1. Introduction/1.2 The Concept of Function/d. Continuity.md",
-    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence/a. a_n = frac{1}{n}.md",
-    "Calculus 1/Book/(Classics in Mathematics) Richard Courant, Fritz John (auth.) - Introduction to Calculus and Analysis I-Springer-Verlag Berlin Heidelberg (1999).pdf",
-    "Calculus 1/Theory/1. Introduction/1.6 The Limit of a Sequence",
-    "Calculus 1/Theory/1. Introduction/1.5 Mathematical Induction",
-    "Calculus 1/Theory/1. Introduction/1.4 Sequences",
-    "Calculus 1/Theory/1. Introduction/1.3 The Elementary Functions",
-    "Calculus 1/Theory/1. Introduction/1.2 The Concept of Function",
     "Pasted image 20241112204322.png",
     "Pasted image 20241109224121.png",
-    "Pasted image 20241109224118.png",
-    "Pasted image 20241106160428.png",
-    "Pasted image 20241006192104.png",
-    "Pasted image 20241002094328.png"
+    "Pasted image 20241109224118.png"
   ]
 }

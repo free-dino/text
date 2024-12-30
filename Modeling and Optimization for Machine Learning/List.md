@@ -1,8 +1,0 @@
-[[@1 Introduction]]
-[[@2 Bayesian network]]
-[[2. Optimization Basics]]
-[[3. Canonical Problem Forms]]
-[[4. Gradient Descent]]
-[[5 Subgradients]]
-[[6. Subgradient method]]
-[[7. Proximal Gradient Descent]]
