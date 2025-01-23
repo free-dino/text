@@ -29,3 +29,12 @@ $$
 \v x \in \R^3 \mid \max\{ |x_1| |x_2|\} = 1, x_3 = 0
 \}
 $$
+# 2.3 
+The second-order cone is the norm cone for the Euclidean norm:
+$$
+\begin{align}
+C &= \set{(x, t) \in \R^{n+1} \mid \norm{x}_2 \le t} \\
+&= \Bigg \{ \begin{bmatrix} x \\ t\end{bmatrix} \Bigg{|} \begin{bmatrix} x & t\end{bmatrix}  \begin{bmatrix} I & 0 \\ 0 & -1\end{bmatrix} \begin{bmatrix} x \\ t\end{bmatrix} \le 0, t \ge 0 \Bigg \}
+\end{align}
+$$
+The second-order cone is also known by several other names. It's called the quadratic cone

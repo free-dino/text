@@ -1,5 +1,6 @@
 {
-  "accentColor": "#6678ff",
-  "cssTheme": "Reverie",
-  "enabledCssSnippets": []
+  "accentColor": "#66d1ff",
+  "cssTheme": "Obsidianite",
+  "enabledCssSnippets": [],
+  "baseFontSize": 16
 }
