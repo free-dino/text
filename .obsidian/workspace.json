@@ -189,8 +189,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1de5fc0454147071",
+  "active": "a466fba2ddda9d39",
   "lastOpenFiles": [
+    "Linear algebra/books/LADR4e.pdf",
+    "Weird shit I found online/mml-book.pdf",
+    "Modeling and Optimization for Machine Learning/bv_cvxbook.pdf",
+    "Machine Learning/books/sml-book-draft-latest.pdf",
     "books/Richard Szeliski - Computer Vision_ Algorithms and Applications (Texts in Computer Science)-Springer (2022).pdf",
     "books/Richard Hartley Andrew Zisserman - Multiple View Geometry in Computer Vision, 2nd Edition (2004).pdf",
     "books/Mohamed Elgendy - Deep Learning for Vision Systems-Manning Publications (2020).pdf",
@@ -198,10 +202,6 @@
     "books/Gonzalez, Rafael C._ Woods, Richard E. - Digital image processing-Pearson (2018).pdf",
     "books/Davies E.R. - Computer vision. Principles, algorithms, applications, learning-Elsevier,Academic Press (2018).pdf",
     "books/DP.pdf",
-    "books/pdfelement-pro_setup_full5239.exe",
-    "books/Dimitri P. Bertsekas, John N. Tsitsiklis - Introduction to Probability, 2nd Edition  -Athena Scientific (2008).pdf",
-    "books/Dimitri P. Bertsekas and John N. Tsitsiklis - Introduction to Probability 2nd Edition Problem Solutions-Athena Scientific (2019).pdf",
-    "books/bv_cvxbook.pdf",
     "Modeling and Optimization for Machine Learning/Theory/2. Convex sets/2.2 Some important examples.md",
     "Modeling and Optimization for Machine Learning/Theory/2. Convex sets/2.1 Affine and convex sets.md",
     "Modeling and Optimization for Machine Learning/1. Introduction/1.3 Convex optimization.md",
