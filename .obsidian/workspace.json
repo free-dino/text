@@ -35,25 +35,8 @@
               "title": "1. Linear regression"
             }
           }
-        ]
-      },
-      {
-        "id": "271f7460483d57af",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c0e65a3cbcf1e9ee",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Modeling and Optimization for Machine Learning/bv_cvxbook.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "bv_cvxbook"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,19 +189,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a466fba2ddda9d39",
+  "active": "1de5fc0454147071",
   "lastOpenFiles": [
-    "books/Мёрфи, Реймонд - English Grammar in Use (2019) - libgen.li.pdf",
-    "books/neizvesten, Avtor - Build a backend rest api with Python and Django - libgen.li.pdf",
-    "books/ed3bookaug20_2024.pdf",
-    "books/cookbook.pdf",
-    "books/William S. Vincent - Django for Beginners_ Build Websites with Python and Django 4.2-WelcomeToCode (2023).pdf",
-    "books/William S. Vincent - Django for APIs_ Build web APIs with Python and Django 4.0-leanpub.com (2022).pdf",
-    "books/Theoretical Neuroscience_ Computational and Mathematical -- Peter Dayan, L_ F_ Abbott -- 1, 2005 -- The MIT Press -- 058543655X -- eeb567b3e6bfc86dafde57d3adb734fe -- Anna’s Archive.pdf",
-    "books/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf",
-    "books/Richard Courant, Fritz John - Introduction to Calculus and Analysis. I-Springer (1989,2011).pdf",
-    "books/RLbook2020trimmed.pdf",
-    "books/Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong - Mathematics for Machine Learning-Cambridge University Press (2020).pdf",
+    "books/Richard Szeliski - Computer Vision_ Algorithms and Applications (Texts in Computer Science)-Springer (2022).pdf",
+    "books/Richard Hartley Andrew Zisserman - Multiple View Geometry in Computer Vision, 2nd Edition (2004).pdf",
+    "books/Mohamed Elgendy - Deep Learning for Vision Systems-Manning Publications (2020).pdf",
+    "books/Joseph Howse_ Joe Minichino - Learning OpenCV 5 Computer Vision with Python - Fourth Edition-Packt Publishing (2023).epub",
+    "books/Gonzalez, Rafael C._ Woods, Richard E. - Digital image processing-Pearson (2018).pdf",
+    "books/Davies E.R. - Computer vision. Principles, algorithms, applications, learning-Elsevier,Academic Press (2018).pdf",
+    "books/DP.pdf",
+    "books/pdfelement-pro_setup_full5239.exe",
+    "books/Dimitri P. Bertsekas, John N. Tsitsiklis - Introduction to Probability, 2nd Edition  -Athena Scientific (2008).pdf",
+    "books/Dimitri P. Bertsekas and John N. Tsitsiklis - Introduction to Probability 2nd Edition Problem Solutions-Athena Scientific (2019).pdf",
+    "books/bv_cvxbook.pdf",
     "Modeling and Optimization for Machine Learning/Theory/2. Convex sets/2.2 Some important examples.md",
     "Modeling and Optimization for Machine Learning/Theory/2. Convex sets/2.1 Affine and convex sets.md",
     "Modeling and Optimization for Machine Learning/1. Introduction/1.3 Convex optimization.md",
