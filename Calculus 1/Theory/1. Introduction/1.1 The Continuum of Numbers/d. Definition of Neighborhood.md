@@ -1,1 +1,0 @@
-For any positive $\epsilon$, the $\epsilon-\text{neighborhoods}$ of the point $x_0$ consists of the values $x$ for which $x_0 -\epsilon < x <x_0 + \epsilon \iff (x_0 -\epsilon, x_0 +\epsilon)$.
