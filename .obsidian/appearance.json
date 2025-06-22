@@ -1,6 +1,9 @@
 {
   "accentColor": "#66d1ff",
-  "cssTheme": "Obsidianite",
+  "cssTheme": "",
   "enabledCssSnippets": [],
-  "baseFontSize": 16
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "textFontFamily": "Chalkboard",
+  "baseFontSizeAction": false
 }
