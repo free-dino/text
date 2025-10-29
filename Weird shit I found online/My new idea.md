@@ -1,0 +1,1 @@
+Ok, so if Vision Transformer divide images into 

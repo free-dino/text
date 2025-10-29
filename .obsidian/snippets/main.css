@@ -1,0 +1,10 @@
+.callout[data-callout="def"] {
+	--callout-color: 74, 255, 249;
+	--callout-icon: book-a;
+}
+
+.callout[data-callout="idea"] {
+	--callout-color: 212, 123, 116;
+	--callout-icon: lightbulb;
+}
+

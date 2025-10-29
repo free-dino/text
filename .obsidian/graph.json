@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 7885536
       }
+    },
+    {
+      "query": "path:GNN/Foundations  ",
+      "color": {
+        "a": 1,
+        "rgb": 1128799
+      }
     }
   ],
   "collapse-display": false,
