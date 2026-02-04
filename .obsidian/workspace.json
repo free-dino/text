@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Exercises/1.1.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1.1"
+              "title": "README"
             }
           },
           {
@@ -224,8 +224,8 @@
   },
   "active": "66f484223ff0aa69",
   "lastOpenFiles": [
-    "Calculus/Theory/1. Functions and Models/1.1 Four Ways to Represent a Function.md",
     "Calculus/Exercises/1.1.md",
+    "Calculus/Theory/1. Functions and Models/1.1 Four Ways to Represent a Function.md",
     "Calculus/Book/Calculus_ Early Transcendentals, 9th Edition -- James Stewart, Daniel K_ Clegg, Saleem Watson, Lothar Redlin -- Stewart's Calculus, 1, 9, 2020 -- 9780357022290 -- 4d84bb2c3e37723ee4e64e678535ca78 -- Anna’s Archive.pdf",
     "Probability and Statistics/Theory/1. Sample Space and Probability/1.1 Sets.md",
     "Calculus/Exercises",
