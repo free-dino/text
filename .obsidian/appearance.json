@@ -4,7 +4,7 @@
   "enabledCssSnippets": [
     "main"
   ],
-  "baseFontSize": 18,
+  "baseFontSize": 20,
   "theme": "obsidian",
   "textFontFamily": "Chalkboard",
   "baseFontSizeAction": false

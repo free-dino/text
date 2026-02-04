@@ -4,46 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "4a917bb08c1706a6",
+        "id": "f71e8c5ac1b48117",
         "type": "tabs",
         "children": [
           {
-            "id": "3917bb21830341dc",
+            "id": "66f484223ff0aa69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GNN/Foundations/Graph Neural Networks for Node Classification.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Graph Neural Networks for Node Classification"
-            }
-          },
-          {
-            "id": "6bc51919f9c33b60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Theory/3. Basic parametric models/2. Classification and Logistic Regression.md",
+                "file": "Calculus/Exercises/1.1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2. Classification and Logistic Regression"
+              "title": "1.1"
+            }
+          },
+          {
+            "id": "e136c8cf4380eef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/Theory/1. Functions and Models/1.1 Four Ways to Represent a Function.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 Four Ways to Represent a Function"
+            }
+          }
+        ]
+      },
+      {
+        "id": "207aa9d9243951d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3134d0abdb79abc1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Calculus/Book/Calculus_ Early Transcendentals, 9th Edition -- James Stewart, Daniel K_ Clegg, Saleem Watson, Lothar Redlin -- Stewart's Calculus, 1, 9, 2020 -- 9780357022290 -- 4d84bb2c3e37723ee4e64e678535ca78 -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Calculus_ Early Transcendentals, 9th Edition -- James Stewart, Daniel K_ Clegg, Saleem Watson, Lothar Redlin -- Stewart's Calculus, 1, 9, 2020 -- 9780357022290 -- 4d84bb2c3e37723ee4e64e678535ca78 -- Anna’s Archive"
             }
           }
         ]
@@ -120,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Theory/Part 1 - Prologue/Chapter 1 - Basic properties of Numbers.md",
+                "file": "GNN/Foundations/Graph Neural Networks for Node Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 1 - Basic properties of Numbers"
+              "title": "Backlinks for Graph Neural Networks for Node Classification"
             }
           },
           {
@@ -171,16 +180,37 @@
               "icon": "lucide-list",
               "title": "Outline of Problem"
             }
+          },
+          {
+            "id": "6fad32900bd57b29",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          },
+          {
+            "id": "8267627ca725ba51",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -189,57 +219,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3917bb21830341dc",
+  "active": "66f484223ff0aa69",
   "lastOpenFiles": [
-    "Machine Learning/Theory/3. Basic parametric models/1. Linear regression.md",
-    "GNN/Foundations/Graph Neural Networks for Node Classification.md",
-    "Machine Learning/Theory/3. Basic parametric models/2. Classification and Logistic Regression.md",
-    "preamble.sty~",
-    "2. Classification and Logistic Regression^8ff797.md",
-    "GNN/Weibin Liu_ Huaqing Hao_ Hui Wang_ Zhiyuan Zou_ Weiwei Xing - Graph Neural Network Methods and Applications in Scene Understanding (2024, Springer Nature Singapore) - libgen.1ozJc5_Q.li.epub.part",
-    "GNN/Weibin Liu_ Huaqing Hao_ Hui Wang_ Zhiyuan Zou_ Weiwei Xing - Graph Neural Network Methods and Applications in Scene Understanding (2024, Springer Nature Singapore) - libgen.li.epub",
-    "GNN/Foundations",
-    "Graph Neural Network",
-    "Machine Learning/books/sml-book-draft-latest.pdf",
-    "Weird shit I found online/weird shit.md",
-    "Excalidraw/Drawing 2025-10-18 15.42.37.excalidraw.md",
-    "Machine Learning/Theory/3. Basic parametric models/3. Polynomial Regression and Regularization.md",
-    "Machine Learning/Theory/2. Supervised Learning - A first Approach/2. A Distance Based Method - k-NN.md",
-    "Machine Learning/Theory/2. Supervised Learning - A first Approach/1. Supervised Learning.md",
-    "Machine Learning/Theory/2. Supervised Learning - A first Approach/@ List of Supervised Learning - A first Approach.md",
-    "Machine Learning/Theory/1. Introduction/2. About the book.md",
-    "Machine Learning/Theory/1. Introduction/1. Machine Learning Exemplified.md",
-    "Modeling and Optimization for Machine Learning/1. Introduction/1.2 Least-squares and linear programming.md",
-    "Machine Learning/Theory/6. Neural Networks and Deep Learning/1. The Neural Network Model.md",
-    "Machine Learning/Theory/6. Neural Networks and Deep Learning/2. Training a Neural Network.md",
-    "Machine Learning/Theory/6. Neural Networks and Deep Learning/3. Convolutional Neural Networks.md",
-    "Deep learning/Neural network.md",
-    "Excalidraw",
-    "Probability and Statistics/01. Giáo trình - Dimitri P. Bertsekas, John N. Tsitsiklis - Introduction to Probability, 2nd Edition -Athena Scientific (2008).pdf",
+    "Calculus/Theory/1. Functions and Models/1.1 Four Ways to Represent a Function.md",
+    "Calculus/Exercises/1.1.md",
+    "Calculus/Book/Calculus_ Early Transcendentals, 9th Edition -- James Stewart, Daniel K_ Clegg, Saleem Watson, Lothar Redlin -- Stewart's Calculus, 1, 9, 2020 -- 9780357022290 -- 4d84bb2c3e37723ee4e64e678535ca78 -- Anna’s Archive.pdf",
     "Probability and Statistics/Theory/1. Sample Space and Probability/1.1 Sets.md",
-    "Calculus/Slides/1.1.pdf",
-    "Calculus/Slides/Bài giảng Giải tích 1 - Chương 2 phần 2.1 - Nguyễn Quang Vinh - UET.pdf",
-    "Modeling and Optimization for Machine Learning/Theory/2. Convex sets/2.2 Some important examples.md",
-    "Modeling and Optimization for Machine Learning/Theory/2. Convex sets/2.1 Affine and convex sets.md",
-    "Machine Learning/Theory/4. Understanding, Evaluating/4. The Bias-Variance Decomposition of E_new.md",
-    "Machine Learning/Theory/4. Understanding, Evaluating/5. Additional Tools for Evaluating Binary Classifiers.md",
+    "Calculus/Exercises",
+    "Pasted image 20260204144112.png",
+    "Pasted image 20260204143301.png",
+    "Pasted image 20260204142546.png",
+    "Pasted image 20260204142537.png",
+    "Calculus/Theory/1. Functions and Models",
+    "Probability and Statistics/01. Giáo trình - Dimitri P. Bertsekas, John N. Tsitsiklis - Introduction to Probability, 2nd Edition -Athena Scientific (2008).pdf",
+    "Weird shit I found online/mml-book.pdf",
+    "Machine Learning/Theory/4. Understanding, Evaluating/3. The Training Error-Generalization Gap Decomposition of E_new.md",
     "Machine Learning/Theory/4. Understanding, Evaluating/2. Estimating E_new.md",
+    "Machine Learning/Theory/4. Understanding, Evaluating/1. Expected New Data Error E_new - Performance in Production.md",
+    "Machine Learning/Theory/3. Basic parametric models/2. Classification and Logistic Regression.md",
+    "Machine Learning/Theory/3. Basic parametric models/1. Linear regression.md",
+    "Machine Learning/Theory/2. Supervised Learning - A first Approach/2. A Distance Based Method - k-NN.md",
+    "Modeling and Optimization for Machine Learning/Theory/2. Convex sets/2.1 Affine and convex sets.md",
+    "Modeling and Optimization for Machine Learning/1. Introduction/1.3 Convex optimization.md",
+    "Modeling and Optimization for Machine Learning/bv_cvxbook.pdf",
+    "Linear algebra/books/LADR4e.pdf",
+    "Calculus/Slides/Bai giang GT1 (Chuong 4).pdf",
+    "preamble.sty~",
+    "Pasted image 20251224193043.png",
+    "Pasted image 20250122215726.png",
+    "Pasted image 20251224210729.png",
+    "Pasted image 20251224210844.png",
+    "Pasted image 20251224211044.png",
+    "Pasted image 20251224211250.png",
+    "Machine Learning/Theory/1. Introduction/1. Machine Learning Exemplified.md",
+    "Machine Learning/Theory/6. Neural Networks and Deep Learning/3. Convolutional Neural Networks.md",
+    "Calculus/Slides/Untitled.md",
+    "Modeling and Optimization for Machine Learning/Theory/2. Convex sets/Example.md",
+    "Reinforcement learning/Note.md",
+    "Reinforcement learning/Note from slides/Lecture 3.md",
+    "Web Project/HTML/2. Attributes.md",
+    "Reinforcement learning/Note from slides/Lecture 5.md",
+    "Computational Neuroscience/Report.md",
+    "Reinforcement learning/Theory/3. Finite Markov Decision Processes/3.1 The Agent-Environment Interface.md",
+    "Excalidraw/Drawing 2025-12-24 20.06.34.excalidraw.md",
     "Machine Learning/Theory/7. Ensemble methods - Bagging and Boosting/3. Boosting and AdaBoost.md",
     "Machine Learning/Theory/7. Ensemble methods - Bagging and Boosting/2. Random Forests.md",
-    "Pasted image 20250910230303.png",
-    "Pasted image 20250202124201.png",
-    "Pasted image 20250202124025.png",
-    "Pasted image 20250122215726.png",
-    "Pasted image 20250121132658.png",
-    "Pasted image 20250121132642.png",
-    "Pasted image 20250121120451.png",
-    "Pasted image 20250121071417.png",
-    "Pasted image 20250121071057.png",
-    "Pasted image 20250120165742.png",
+    "Machine Learning/Theory/7. Ensemble methods - Bagging and Boosting/1. Bagging.md",
+    "Calculus/Book/spivak.pdf",
     "Probability and Statistics/Theory/Untitled.canvas"
   ]
 }
